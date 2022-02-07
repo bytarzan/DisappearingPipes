@@ -5,6 +5,8 @@ My version of this game has pipes that disappear right before the koopa troopa p
 How to Play:
 ![main BackgroundPipe](https://github.com/tachow/DisappearingPipes/blob/main/description/BackgroundPipe.png)
 
+![main BackgroundPipe](https://github.com/tachow/DisappearingPipes/blob/main/description/game.png)
+
 Dependencies 
 LWJGL 3.3.0 - Used Light Weight Java Game Library 3, which can be downloaded [here](https://www.lwjgl.org/customize). Once the files are downloaded, you need to add the jar and native files manually in order for the game to run. 
 
