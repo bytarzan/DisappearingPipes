@@ -1,4 +1,4 @@
-# DisappearingPipes
+# Disappearing Pipes
 This game is a modified version of flappy bird that you can play with on desktop platforms!  <br />
 My version of this game has pipes that disappear right before the koopa troopa passes through the space between the two pipes. 
 
